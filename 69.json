@@ -5,7 +5,16 @@
     "engMeaning": "The Reality",
     "bnMeaning": "নিশ্চিত সত্য",
     "Makkhi": true,
-    "audioSrc":"https://cdn.jsdelivr.net/gh/darkcat-sudo/ch@main/fvaudio/Surah-Al-Haqqah-Nasser-Al-Qatami.mp3",
+    "audioSrc":[
+    {
+      "name":"Nasser-Al-Qatami",
+      "src":"https://cdn.jsdelivr.net/gh/darkcat-sudo/ch@main/fvaudio/Surah-Al-Haqqah-Nasser-Al-Qatami.mp3"
+    },
+    {
+      "name":"yasser-al-dossari",
+      "src":"https://media.blubrry.com/muslim_central_quran/podcasts.qurancentral.com/yasser-al-dossari/yasser-al-dossari-069.mp3"
+    }
+  ],
     "totalVerseCount": 52,
     "allVerse": [
       {

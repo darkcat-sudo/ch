@@ -5,7 +5,16 @@
   "engMeaning": "Luqman",
   "bnMeaning": "এক জ্ঞানী ব্যাক্তি",
   "Makkhi": true,
-  "audioSrc":"https://cdn.jsdelivr.net/gh/darkcat-sudo/ch@main/fvaudio/luqman-dosari.mp3",
+  "audioSrc":[ 
+    {
+      "name":"yasser-al-dossari old",
+      "src":"https://cdn.jsdelivr.net/gh/darkcat-sudo/ch@main/fvaudio/luqman-dosari.mp3"
+    },
+    {
+      "name":"yasser-al-dossari new",
+      "src":"https://podcasts.qurancentral.com/yasser-al-dossari/yasser-al-dossari-031.mp3"
+    }
+  ],
   "totalVerseCount": 34,
   "allVerse": [
     {
